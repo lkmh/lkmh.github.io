@@ -43,7 +43,7 @@ plt.imshow(test_data)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
 
 
 ## 2. Opening images with PIL
@@ -72,7 +72,7 @@ img
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_3_1.png)
 
 
 
@@ -104,15 +104,15 @@ display(img_flipped)
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_0.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_1.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_2.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_2.png)
 
 
 ## 4. Images as arrays of data
@@ -152,15 +152,15 @@ plt.show()
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_1.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_2.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_2.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_3.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_3.png)
 
 
 ## 5. Explore the color channels
@@ -193,7 +193,7 @@ plot_rgb(img_data)
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
 
 
 ## 6. Honey bees and bumble bees (i)
@@ -216,11 +216,11 @@ plot_rgb(honey_data)
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_0.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_1.png)
 
 
 ## 7. Honey bees and bumble bees (ii)
@@ -243,11 +243,11 @@ plot_rgb(bumble_data)
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_0.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_1.png)
 
 
 ## 8. Simplify, simplify, simplify
@@ -277,14 +277,14 @@ plot_kde(honey_bw_arr, 'k')
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_0.png)
 
 
     Our NumPy array has the shape: (100, 100)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_2.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_2.png)
 
 
 
@@ -295,7 +295,7 @@ plot_kde(honey_bw_arr, 'k')
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_4.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_4.png)
 
 
 ## 9. Save your work!
@@ -331,11 +331,11 @@ honey_bw_hc.save('saved_images/bw_hc.jpg')
 ```
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_0.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_0.png)
 
 
 
-![png](Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_1.png)
+![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_1.png)
 
 
 ## 10. Make a pipeline
