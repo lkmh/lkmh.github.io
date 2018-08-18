@@ -72,7 +72,7 @@ img
 
 
 
-![png](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
+![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
 
 
 
@@ -193,7 +193,7 @@ plot_rgb(img_data)
 ```
 
 
-![](//_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
+![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
 
 
 ## 6. Honey bees and bumble bees (i)
