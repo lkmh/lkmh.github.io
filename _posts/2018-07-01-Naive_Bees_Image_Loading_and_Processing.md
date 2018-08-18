@@ -43,7 +43,7 @@ plt.imshow(test_data)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
+![](lkmh.github.io/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
 
 
 ## 2. Opening images with PIL
@@ -72,7 +72,7 @@ img
 
 
 
-![png](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
+![png](lkmh.github.io/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
 
 
 
