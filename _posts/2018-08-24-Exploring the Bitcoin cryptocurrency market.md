@@ -129,7 +129,7 @@ ax.set_xlabel("")
 
 
 
-![svg](output_7_1.svg)
+![svg](https://cdn.rawgit.com/lkmh/lkmh.github.io/9ab99f49/_posts/Exploring%20the%20Bitcoin%20cryptocurrency%20market%20-%20images/output_7_1.svg)
 
 
 ## 5. Making the plot easier to read and more informative
@@ -159,7 +159,7 @@ plt.show()
 ```
 
 
-![svg](output_9_0.svg)
+![svg](https://cdn.rawgit.com/lkmh/lkmh.github.io/9ab99f49/_posts/Exploring%20the%20Bitcoin%20cryptocurrency%20market%20-%20images/output_9_0.svg)
 
 
 ## 6. What is going on?! Volatility in cryptocurrencies
@@ -240,7 +240,7 @@ fig, ax = top10_subplot(volatility.percent_change_24h, DTITLE)
 ```
 
 
-![svg](output_13_0.svg)
+![svg](https://cdn.rawgit.com/lkmh/lkmh.github.io/9ab99f49/_posts/Exploring%20the%20Bitcoin%20cryptocurrency%20market%20-%20images/output_13_0.svg)
 
 
 ## 8. Ok, those are... interesting. Let's check the weekly Series too.
@@ -260,7 +260,7 @@ fig, ax = top10_subplot(volatility7d.percent_change_7d, WTITLE)
 ```
 
 
-![svg](output_15_0.svg)
+![svg](https://cdn.rawgit.com/lkmh/lkmh.github.io/9ab99f49/_posts/Exploring%20the%20Bitcoin%20cryptocurrency%20market%20-%20images/output_15_0.svg)
 
 
 ## 9. How small is small?
@@ -330,5 +330,5 @@ plt.bar(range(len(values)), values, tick_label=LABELS)
 
 
 
-![svg](output_19_2.svg)
+![svg](https://cdn.rawgit.com/lkmh/lkmh.github.io/9ab99f49/_posts/Exploring%20the%20Bitcoin%20cryptocurrency%20market%20-%20images/output_19_2.svg)
 
