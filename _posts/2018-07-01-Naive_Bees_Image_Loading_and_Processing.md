@@ -72,8 +72,10 @@ img
 
 
 
-![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.jpg)
-![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.JPG)
+![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.jpg?raw=true)
+![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.JPG?raw=true)
+
+
 
 ## 3. Image manipulation with PIL
 <p>Pillow has a number of common image manipulation tasks built into the library. For example, one may want to resize an image so that the file size is smaller. Or, perhaps, convert an image to black-and-white instead of color. Operations that Pillow provides include:</p>
