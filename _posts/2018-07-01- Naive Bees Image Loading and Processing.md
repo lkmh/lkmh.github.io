@@ -1,3 +1,7 @@
+---
+title: Naive Bees Image Loading and Processing - A Data Camp Project !
+---
+
 
 ## 1. Import Python libraries
 <p><img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_374/img/honey.jpg" alt="honey bee">
