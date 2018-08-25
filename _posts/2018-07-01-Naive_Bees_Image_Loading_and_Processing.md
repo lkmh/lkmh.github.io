@@ -72,9 +72,8 @@ img
 
 
 
-![png](lkmh.github.io/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
+![png](lkmh.github.io/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.PNG)
 
-![png](https://github.com/lkmh/lkmh.github.io/blob/master/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png) 
 
 ## 3. Image manipulation with PIL
 <p>Pillow has a number of common image manipulation tasks built into the library. For example, one may want to resize an image so that the file size is smaller. Or, perhaps, convert an image to black-and-white instead of color. Operations that Pillow provides include:</p>
