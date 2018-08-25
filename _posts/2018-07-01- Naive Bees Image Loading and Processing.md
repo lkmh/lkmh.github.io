@@ -1,5 +1,5 @@
 ---
-title: Naive Bees Image Loading and Processing - A Data Camp Project !
+title: Naive Bees Image Loading and Processing 
 ---
 
 
