@@ -43,7 +43,7 @@ plt.imshow(test_data)
 
 
 
-![](lkmh.github.io/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_1_1.png)
 
 
 ## 2. Opening images with PIL
@@ -73,7 +73,6 @@ img
 
 
 ![jpg](https://cdn.rawgit.com/lkmh/lkmh.github.io/31a98118/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
-![jpg](https://rawgit.com/lkmh/lkmh.github.io/master/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
 
 
 
@@ -105,15 +104,15 @@ display(img_flipped)
 ```
 
 
-![png](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_0.png)
+![png](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_0.png)
 
 
 
-![png](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_1.png)
+![png](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_1.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_2.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_5_2.png)
 
 
 ## 4. Images as arrays of data
@@ -153,15 +152,15 @@ plt.show()
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_1.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_1.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_2.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_2.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_3.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_7_3.png)
 
 
 ## 5. Explore the color channels
@@ -194,7 +193,7 @@ plot_rgb(img_data)
 ```
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_9_0.png)
 
 
 ## 6. Honey bees and bumble bees (i)
@@ -217,11 +216,11 @@ plot_rgb(honey_data)
 ```
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_0.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_0.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_1.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_11_1.png)
 
 
 ## 7. Honey bees and bumble bees (ii)
@@ -244,11 +243,11 @@ plot_rgb(bumble_data)
 ```
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_0.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_0.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_1.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_13_1.png)
 
 
 ## 8. Simplify, simplify, simplify
@@ -278,14 +277,14 @@ plot_kde(honey_bw_arr, 'k')
 ```
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_0.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_0.png)
 
 
     Our NumPy array has the shape: (100, 100)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_2.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_2.png)
 
 
 
@@ -296,7 +295,7 @@ plot_kde(honey_bw_arr, 'k')
 
 
 
-![](_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_4.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_15_4.png)
 
 
 ## 9. Save your work!
@@ -332,11 +331,11 @@ honey_bw_hc.save('saved_images/bw_hc.jpg')
 ```
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_0.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_0.png)
 
 
 
-![](/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_1.png)
+![](https://cdn.rawgit.com/lkmh/lkmh.github.io/f2f0caa3/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_17_1.png)
 
 
 ## 10. Make a pipeline
