@@ -72,8 +72,8 @@ img
 
 
 
-![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.jpg?raw=true)
-![jpg](https://github.com/lkmh/lkmh.github.io/blob/master/images/jekyll-now-theme-screenshot.JPG?raw=true)
+![jpg](https://cdn.rawgit.com/lkmh/lkmh.github.io/31a98118/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
+![jpg](https://rawgit.com/lkmh/lkmh.github.io/master/_posts/Naive_Bees_Image_Loading_and_Processing_files/Naive_Bees_Image_Loading_and_Processing_3_1.png)
 
 
 
